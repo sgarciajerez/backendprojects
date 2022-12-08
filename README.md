@@ -10,7 +10,7 @@ _Las herramientas utilizadas han sido:_
 
 ## Autores ✒️
 
-* **Santiago García** - *Código y Trabajo* - [villanuevand](https://github.com/sgarciajerez)
+* **Santiago García** - *Código y Trabajo* - [Sgarciajerez](https://github.com/sgarciajerez)
 
 ## Expresiones de Gratitud 🎁
 

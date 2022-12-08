@@ -15,5 +15,10 @@ _Las herramientas utilizadas han sido:_
 ## Expresiones de Gratitud 🎁
 
 * Comenta a otros sobre estos proyectos 📢
+* 📫 How to reach me: sgarciajerez@gmail.com
+* 📶 My website page: www.sgarciajerez.github.io
+* ✅ All my frontend projects in https://github.com/sgarciajerez/sgarciajerez.github.io
+* 💻 All my backend projects in https://github.com/sgarciajerez/backendprojects
+* 🎮 All my game projects in https://github.com/sgarciajerez/videojuegos
 
 ---
